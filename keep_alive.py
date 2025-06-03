@@ -1,5 +1,5 @@
 from flask import Flask
-from threading import Thread
+from threading import Thread     #มายเซิฟเวอร์
 
 app = Flask('')
 
