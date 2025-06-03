@@ -1,5 +1,5 @@
 import discord
-from discord.ext import commands
+from discord.ext import commands    #!แสดงปุ่มเมนู
 from video_menu import MenuView
 
 TARGET_CHANNEL_ID = 1379036193525862460
