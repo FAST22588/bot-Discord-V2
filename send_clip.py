@@ -5,7 +5,7 @@ import os
 import asyncio
 import time
 
-CHANNEL_ID = 1379036193525862460
+CHANNEL_ID = 1379036193525862460       #!ส่งคลิป [ชื่อเรื่อง]
 LOG_CHANNEL_ID = 1378977947054247957
 COUNTDOWN_TIME = 10
 
