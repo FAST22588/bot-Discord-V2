@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands    #!แสดงปุ่มเมนู
 from video_menu import MenuView
 
-TARGET_CHANNEL_ID = 1379036193525862460
+TARGET_CHANNEL_ID = 1379036193525862460     #ใส่ ID ห้องที่ต้องการใช้งานโค๊ดนี้
 
 class MenuTrigger(discord.ui.View):
     @discord.ui.button(label="📋 เปิดเมนูวิดีโอ", style=discord.ButtonStyle.success)
